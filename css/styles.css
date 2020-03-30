@@ -1,0 +1,8 @@
+.output {
+  border: solid 5px green;
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
